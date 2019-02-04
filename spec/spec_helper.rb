@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "underscore/string/rails"
 
 RSpec.configure do |config|

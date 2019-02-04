@@ -28,7 +28,7 @@ In your `application.js` you will need to add these lines:
     //= require underscore
     //= require underscore.string
 
-And mixin `underscore.string` to `underscore` after document is ready to make all exported underscore.string functions via '_'.
+And mixin `underscore.string` to `underscore` after document is ready to make all exported underscore.string functions be accessible via '_'.
 
 ```javascript
 $(function() {

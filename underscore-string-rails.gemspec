@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Integrate underscore.string assets in your Rails asset pipeline}
   spec.description   = %q{Wrap underscore.string and provide the assets as a gem}
-  spec.homepage      = "https://github.com/fmfdias/underscore-string-rails"
+  spec.homepage      = "https://github.com/inventit/underscore-string-rails"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
